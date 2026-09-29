@@ -225,9 +225,12 @@ def main() -> int:
             len({p["foto"] for p in perfumes[i:i + POR_PAGINA]}) for i in range(0, len(perfumes), POR_PAGINA)
         )
         if con_foto == len(perfumes):
+            usos = Counter(p["foto"] for p in perfumes)
+            compartidas = sum(1 for p in perfumes if usos[p["foto"]] > 1)
+            nota = f"; {compartidas} presentaciones de la misma fragancia comparten foto" if compartidas else ""
             comprobar(
                 imagenes_pdf >= fotos_por_pagina,
-                f"El PDF trae incrustadas las imágenes ({imagenes_pdf})",
+                f"Las fotos van incrustadas en el archivo: {imagenes_pdf} imágenes{nota}",
                 f"El PDF solo trae {imagenes_pdf} imágenes y se esperaban {fotos_por_pagina}",
             )
 

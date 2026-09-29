@@ -1,0 +1,408 @@
+{
+  "generado": "2026-09-29T01:53:22.410Z",
+  "paginas": 7,
+  "paginasDesbordadas": 0,
+  "fuentesCargadas": [
+    "Cormorant Garamond normal",
+    "Cormorant Garamond italic",
+    "Montserrat normal"
+  ],
+  "tarjetas": [
+    {
+      "slug": "vs-bombshell-gold",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-bombshell-intense",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-bombshell-seduction",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-bombshell-paradise",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-bombshell-nights",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-bombshell-holiday",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-very-sexy-night",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-very-sexy-sea",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-very-sexy-oasis",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-very-sexy-now-flores",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-very-sexy-now-blanca",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-tease-candy-noir",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-tease",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-tease-creme-cloud",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-angel",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-angel-gold",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "vs-dark-angel",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "armani-si-intense",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "armani-si-passione-eclat",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "armani-si-fiori",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "armani-acqua-di-gio-profumo",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "tous-loveme",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "tous-loveme-emerald",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "tous-loveme-onyx",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "ch-good-girl-velvet-fatale",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "ch-212-vip-rose-smiley",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "ch-212-vip-rose-elixir",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "bvlgari-rose-goldea",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "bvlgari-goldea",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "bvlgari-splendida-jasmin-noir",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "jpg-scandal-absolu",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "jpg-scandal-pour-homme-absolu",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "rabanne-million-gold-for-her",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "rabanne-million-gold",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "versace-eros-pour-femme-cofre",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "versace-eros-pour-femme-caja",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "tt-kirke",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "tt-cassiopea",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "lattafa-eclaire",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "lattafa-emeer",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "valentino-born-in-roma-the-gold-donna",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "armaf-club-de-nuit-milestone",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "lancome-la-vie-est-belle-lextrait",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    },
+    {
+      "slug": "gucci-guilty-pour-femme",
+      "foto": {
+        "cargada": true,
+        "ancho": 375,
+        "alto": 500
+      },
+      "textoDesborda": false
+    }
+  ]
+}

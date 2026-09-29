@@ -255,16 +255,20 @@
       "fragrantica": { "id": 32694, "nombre": "Dark Angel (2015)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Dark-Angel-32694.html" }
     },
     {
-      "slug": "armani-si",
+      "slug": "armani-si-intense",
       "marca": "Giorgio Armani",
-      "nombre": "Sì",
-      "subtitulo": "Eau de Parfum",
+      "nombre": "Sì Intense",
       "comoEnLista": "Sì (negra)",
       "genero": "Dama",
       "familia": "Chipre frutal",
-      "notas": ["grosella negra", "rosa", "vainilla", "pachulí"],
-      "foto": "armani-si",
-      "fragrantica": { "id": 18453, "nombre": "Sì Eau de Parfum (2013)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-18453.html" }
+      "notas": ["grosella negra", "rosa", "osmanto", "vainilla"],
+      "foto": "armani-si-intense",
+      "fragrantica": { "id": 25947, "nombre": "Sì Intense (2014, frasco negro)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Intense-25947.html" },
+      "alternativas": [
+        { "id": 18453, "nombre": "Sì Eau de Parfum (2013, frasco color nude)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-18453.html" },
+        { "id": 64853, "nombre": "Sì Intense 2021 (frasco cobrizo)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Intense-2021-64853.html" }
+      ],
+      "confirmar": "El único Sì de frasco negro es Sì Intense (2014), así que usé ese. El Sì clásico tiene frasco color nude con tapa negra; si el tuyo es ese, avísame."
     },
     {
       "slug": "armani-si-passione-eclat",
