@@ -1,0 +1,581 @@
+{
+  "contacto": {
+    "nombre": "Kevin Rivera",
+    "telefono": "3043349782",
+    "telefonoVisible": "304 334 9782",
+    "whatsapp": "573043349782",
+    "mensajeWhatsapp": "Hola Kevin, vi tu catálogo de perfumes y me interesa uno."
+  },
+  "marcas": [
+    "Victoria's Secret",
+    "Giorgio Armani",
+    "Tous",
+    "Carolina Herrera",
+    "Bvlgari",
+    "Jean Paul Gaultier",
+    "Paco Rabanne",
+    "Versace",
+    "Tiziana Terenzi",
+    "Lattafa",
+    "Valentino",
+    "Armaf",
+    "Lancôme",
+    "Gucci"
+  ],
+  "perfumes": [
+    {
+      "slug": "vs-bombshell-gold",
+      "marca": "Victoria's Secret",
+      "nombre": "Bombshell Gold",
+      "comoEnLista": "Bombshell Gold",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["lichi", "peonía", "vainilla", "azúcar"],
+      "foto": "vs-bombshell-gold",
+      "fragrantica": { "id": 63685, "nombre": "Bombshell Gold (2020)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Gold-63685.html" }
+    },
+    {
+      "slug": "vs-bombshell-intense",
+      "marca": "Victoria's Secret",
+      "nombre": "Bombshell Intense",
+      "comoEnLista": "Bombshell Intense",
+      "genero": "Dama",
+      "familia": "Chipre frutal",
+      "notas": ["cereza", "peonía roja", "vainilla"],
+      "foto": "vs-bombshell-intense",
+      "fragrantica": { "id": 56355, "nombre": "Bombshell Intense (2019)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Intense-56355.html" }
+    },
+    {
+      "slug": "vs-bombshell-seduction",
+      "marca": "Victoria's Secret",
+      "nombre": "Bombshell Seduction",
+      "comoEnLista": "Bombshell Seduction",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["salvia", "tuberosa", "almizcle"],
+      "foto": "vs-bombshell-seduction",
+      "fragrantica": { "id": 48702, "nombre": "Bombshell Seduction Eau de Parfum (2018)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Seduction-Eau-de-Parfum-48702.html" },
+      "alternativas": [
+        { "id": 13626, "nombre": "Bombshell Seduction (2011, edición limitada)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Seduction-13626.html" }
+      ],
+      "confirmar": "Usé la Eau de Parfum de 2018 (la que se vende hoy). Existe una edición limitada de 2011 con otro frasco."
+    },
+    {
+      "slug": "vs-bombshell-paradise",
+      "marca": "Victoria's Secret",
+      "nombre": "Bombshell Paradise",
+      "comoEnLista": "Bombshell Paradise",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["toronja", "grosella negra", "lirio de los valles", "maderas"],
+      "foto": "vs-bombshell-paradise",
+      "fragrantica": { "id": 54758, "nombre": "Bombshell Paradise (2019)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Paradise-54758.html" },
+      "alternativas": [
+        { "id": 60706, "nombre": "Bombshell Paradise Eau de Parfum (2020)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Paradise-Eau-de-Parfum-60706.html" }
+      ],
+      "confirmar": "Usé la ficha de 2019. Fragrantica también lista una Eau de Parfum de 2020 con las mismas notas."
+    },
+    {
+      "slug": "vs-bombshell-nights",
+      "marca": "Victoria's Secret",
+      "nombre": "Bombshell Nights",
+      "comoEnLista": "Bombshell Night",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["grosella negra", "dalia", "maderas"],
+      "foto": "vs-bombshell-nights",
+      "fragrantica": { "id": 47278, "nombre": "Bombshell Nights (2017)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Nights-47278.html" },
+      "alternativas": [
+        { "id": 98502, "nombre": "Bombshell Midnight (2024)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Midnight-98502.html" }
+      ],
+      "confirmar": "En tu lista dice \"Bombshell Night\": usé Bombshell Nights (2017). Si el tuyo es Bombshell Midnight (2024), hay que cambiar la foto."
+    },
+    {
+      "slug": "vs-bombshell-holiday",
+      "marca": "Victoria's Secret",
+      "nombre": "Bombshell Holiday",
+      "comoEnLista": "Bombshell Holiday",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["granada", "jazmín", "abedul"],
+      "foto": "vs-bombshell-holiday",
+      "fragrantica": { "id": 58329, "nombre": "Bombshell Holiday Eau de Parfum (2019)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Bombshell-Holiday-Eau-de-Parfum-58329.html" }
+    },
+    {
+      "slug": "vs-very-sexy-night",
+      "marca": "Victoria's Secret",
+      "nombre": "Very Sexy Night",
+      "comoEnLista": "Very Sexy Night (cofre de lujo)",
+      "genero": "Dama",
+      "presentacion": "Cofre de lujo",
+      "familia": "Oriental floral",
+      "notas": ["ciruela", "manzana", "maderas"],
+      "foto": "vs-very-sexy-night",
+      "fragrantica": { "id": 57375, "nombre": "Very Sexy Night Eau de Parfum (2019)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Night-Eau-de-Parfum-57375.html" },
+      "alternativas": [
+        { "id": 114424, "nombre": "Very Sexy Night (2025, empaque nuevo)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Night-114424.html" }
+      ],
+      "confirmar": "Usé la Eau de Parfum de 2019 (mismo estilo de frasco que Sea y Oasis). En 2025 salió una versión con empaque nuevo."
+    },
+    {
+      "slug": "vs-very-sexy-sea",
+      "marca": "Victoria's Secret",
+      "nombre": "Very Sexy Sea",
+      "comoEnLista": "Very Sexy Sea (cofre de lujo)",
+      "genero": "Dama",
+      "presentacion": "Cofre de lujo",
+      "familia": "Floral",
+      "notas": ["bergamota", "neroli", "cedro"],
+      "foto": "vs-very-sexy-sea",
+      "fragrantica": { "id": 59912, "nombre": "Very Sexy Sea (2020)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Sea-59912.html" }
+    },
+    {
+      "slug": "vs-very-sexy-oasis",
+      "marca": "Victoria's Secret",
+      "nombre": "Very Sexy Oasis",
+      "comoEnLista": "Very Sexy Oasis (cofre de lujo)",
+      "genero": "Dama",
+      "presentacion": "Cofre de lujo",
+      "familia": "Floral",
+      "notas": ["tuberosa", "azahar", "camelia"],
+      "foto": "vs-very-sexy-oasis",
+      "fragrantica": { "id": 72836, "nombre": "Very Sexy Oasis (2022)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Oasis-72836.html" }
+    },
+    {
+      "slug": "vs-very-sexy-now-flores",
+      "marca": "Victoria's Secret",
+      "nombre": "Very Sexy Now",
+      "subtitulo": "Edición floral",
+      "comoEnLista": "Very Sexy Now (flores)",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["guayaba", "flor de mariposa", "coco"],
+      "foto": "vs-very-sexy-now-flores",
+      "fragrantica": { "id": 44116, "nombre": "Very Sexy Now 2017 (estampado floral)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Now-2017-44116.html" },
+      "alternativas": [
+        { "id": 49007, "nombre": "Very Sexy Now Beach (2018)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Now-Beach-49007.html" },
+        { "id": 36829, "nombre": "Very Sexy Now 2016", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Now-2016-36829.html" }
+      ],
+      "confirmar": "Usé la edición 2017, que viene con estampado floral. Very Sexy Now sale en una edición distinta cada año."
+    },
+    {
+      "slug": "vs-very-sexy-now-blanca",
+      "marca": "Victoria's Secret",
+      "nombre": "Very Sexy Now",
+      "subtitulo": "Edición blanca",
+      "comoEnLista": "Very Sexy Now (blanca)",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["coco", "gardenia", "orquídea", "membrillo"],
+      "foto": "vs-very-sexy-now-blanca",
+      "fragrantica": { "id": 25269, "nombre": "Very Sexy Now 2014 (frasco blanco)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Now-2014-25269.html" },
+      "alternativas": [
+        { "id": 49007, "nombre": "Very Sexy Now Beach (2018)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Now-Beach-49007.html" },
+        { "id": 29970, "nombre": "Very Sexy Now 2015", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Very-Sexy-Now-2015-29970.html" }
+      ],
+      "confirmar": "Usé la edición 2014, que es la del frasco blanco. Very Sexy Now sale en una edición distinta cada año."
+    },
+    {
+      "slug": "vs-tease-candy-noir",
+      "marca": "Victoria's Secret",
+      "nombre": "Tease Candy Noir",
+      "comoEnLista": "Tease Candy Noir",
+      "genero": "Dama",
+      "familia": "Oriental vainilla",
+      "notas": ["frambuesa", "iris", "haba tonka"],
+      "foto": "vs-tease-candy-noir",
+      "fragrantica": { "id": 69446, "nombre": "Tease Candy Noir (2021)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Tease-Candy-Noir-69446.html" }
+    },
+    {
+      "slug": "vs-tease",
+      "marca": "Victoria's Secret",
+      "nombre": "Tease",
+      "subtitulo": "Eau de Parfum",
+      "comoEnLista": "Tease Eau de Parfum",
+      "genero": "Dama",
+      "familia": "Floral",
+      "notas": ["pera", "gardenia", "vainilla negra"],
+      "foto": "vs-tease",
+      "fragrantica": { "id": 64012, "nombre": "Tease Eau de Parfum 2020", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Tease-Eau-de-Parfum-2020-64012.html" },
+      "alternativas": [
+        { "id": 50825, "nombre": "Tease Eau de Parfum (2018)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Tease-Eau-de-Parfum-50825.html" }
+      ],
+      "confirmar": "Usé la versión 2020 (la actual, en la misma línea que Candy Noir y Crème Cloud)."
+    },
+    {
+      "slug": "vs-tease-creme-cloud",
+      "marca": "Victoria's Secret",
+      "nombre": "Tease Crème Cloud",
+      "comoEnLista": "Tease Crème Cloud",
+      "genero": "Dama",
+      "familia": "Oriental vainilla",
+      "notas": ["merengue de vainilla", "flor de sándalo", "almizcle"],
+      "foto": "vs-tease-creme-cloud",
+      "fragrantica": { "id": 68550, "nombre": "Tease Crème Cloud (2021)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Tease-Creme-Cloud-68550.html" }
+    },
+    {
+      "slug": "vs-angel",
+      "marca": "Victoria's Secret",
+      "nombre": "Angel",
+      "subtitulo": "Eau de Parfum",
+      "comoEnLista": "Angel",
+      "genero": "Dama",
+      "familia": "Floral",
+      "notas": ["ciruela", "violeta", "ámbar"],
+      "foto": "vs-angel",
+      "fragrantica": { "id": 32695, "nombre": "Angel Eau de Parfum (2015)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Angel-Eau-De-Parfum-32695.html" },
+      "alternativas": [
+        { "id": 15219, "nombre": "Victoria's Secret Angel (2011)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Victoria-s-Secret-Angel-15219.html" }
+      ],
+      "confirmar": "Usé la colección Angel de 2015 (frascos con alas), la misma de Angel Gold y Dark Angel."
+    },
+    {
+      "slug": "vs-angel-gold",
+      "marca": "Victoria's Secret",
+      "nombre": "Angel Gold",
+      "comoEnLista": "Angel Gold",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["bergamota", "gardenia", "almizcle"],
+      "foto": "vs-angel-gold",
+      "fragrantica": { "id": 32693, "nombre": "Angel Gold (2015)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Angel-Gold-32693.html" },
+      "alternativas": [
+        { "id": 16930, "nombre": "Victoria's Secret Angel Gold (2012)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Victoria-s-Secret-Angel-Gold-16930.html" }
+      ]
+    },
+    {
+      "slug": "vs-dark-angel",
+      "marca": "Victoria's Secret",
+      "nombre": "Dark Angel",
+      "comoEnLista": "Dark Angel",
+      "genero": "Dama",
+      "familia": "Floral frutal gourmand",
+      "notas": ["flor de almendro", "mango", "caramelo"],
+      "foto": "vs-dark-angel",
+      "fragrantica": { "id": 32694, "nombre": "Dark Angel (2015)", "url": "https://www.fragrantica.com/perfume/Victoria-s-Secret/Dark-Angel-32694.html" }
+    },
+    {
+      "slug": "armani-si",
+      "marca": "Giorgio Armani",
+      "nombre": "Sì",
+      "subtitulo": "Eau de Parfum",
+      "comoEnLista": "Sì (negra)",
+      "genero": "Dama",
+      "familia": "Chipre frutal",
+      "notas": ["grosella negra", "rosa", "vainilla", "pachulí"],
+      "foto": "armani-si",
+      "fragrantica": { "id": 18453, "nombre": "Sì Eau de Parfum (2013)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-18453.html" }
+    },
+    {
+      "slug": "armani-si-passione-eclat",
+      "marca": "Giorgio Armani",
+      "nombre": "Sì Passione Éclat",
+      "comoEnLista": "Sì Passione Éclat",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["grosella negra", "bergamota", "rosa", "vainilla"],
+      "foto": "armani-si-passione-eclat",
+      "fragrantica": { "id": 71535, "nombre": "Sì Passione Éclat de Parfum (2022)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Passione-Eclat-De-Parfum-71535.html" }
+    },
+    {
+      "slug": "armani-si-fiori",
+      "marca": "Giorgio Armani",
+      "nombre": "Sì Fiori",
+      "comoEnLista": "Sì Fiori",
+      "genero": "Dama",
+      "familia": "Chipre floral",
+      "notas": ["grosella negra", "neroli", "rosa", "vainilla"],
+      "foto": "armani-si-fiori",
+      "fragrantica": { "id": 53243, "nombre": "Sì Fiori (2019)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Si-Fiori-53243.html" }
+    },
+    {
+      "slug": "armani-acqua-di-gio-profumo",
+      "marca": "Giorgio Armani",
+      "nombre": "Acqua di Giò Profumo",
+      "comoEnLista": "Acqua di Giò Profumo 200 ml",
+      "genero": "Caballero",
+      "presentacion": "200 ml",
+      "familia": "Aromático acuático",
+      "notas": ["notas marinas", "bergamota", "romero", "incienso"],
+      "foto": "armani-acqua-di-gio-profumo",
+      "fragrantica": { "id": 29727, "nombre": "Acqua di Giò Profumo (2015)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Profumo-29727.html" },
+      "alternativas": [
+        { "id": 81508, "nombre": "Acqua di Giò Parfum (2023)", "url": "https://www.fragrantica.com/perfume/Giorgio-Armani/Acqua-di-Gio-Parfum-81508.html" }
+      ],
+      "confirmar": "Usé Acqua di Giò Profumo (2015). Si el frasco dice \"Parfum\" (la versión recargable de 2023), hay que cambiar la foto."
+    },
+    {
+      "slug": "tous-loveme",
+      "marca": "Tous",
+      "nombre": "LoveMe",
+      "subtitulo": "Eau de Parfum",
+      "comoEnLista": "LoveMe (rosado)",
+      "genero": "Dama",
+      "familia": "Floral frutal",
+      "notas": ["toronja rosada", "lichi", "peonía", "rosa"],
+      "foto": "tous-loveme",
+      "fragrantica": { "id": 62386, "nombre": "LoveMe (2020)", "url": "https://www.fragrantica.com/perfume/Tous/LoveMe-62386.html" }
+    },
+    {
+      "slug": "tous-loveme-emerald",
+      "marca": "Tous",
+      "nombre": "LoveMe The Emerald Elixir",
+      "comoEnLista": "LoveMe Emerald",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["pera", "naranja dulce", "jazmín", "vainilla"],
+      "foto": "tous-loveme-emerald",
+      "fragrantica": { "id": 83197, "nombre": "LoveMe The Emerald Elixir (2023)", "url": "https://www.fragrantica.com/perfume/Tous/LoveMe-The-Emerald-Elixir-83197.html" }
+    },
+    {
+      "slug": "tous-loveme-onyx",
+      "marca": "Tous",
+      "nombre": "LoveMe The Onyx Parfum",
+      "comoEnLista": "LoveMe Onyx",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["avellana", "orquídea negra", "vainilla", "sándalo"],
+      "foto": "tous-loveme-onyx",
+      "fragrantica": { "id": 69679, "nombre": "LoveMe The Onyx Parfum (2021)", "url": "https://www.fragrantica.com/perfume/Tous/LoveMe-The-Onyx-Parfum-69679.html" }
+    },
+    {
+      "slug": "ch-good-girl-velvet-fatale",
+      "marca": "Carolina Herrera",
+      "nombre": "Good Girl Velvet Fatale",
+      "comoEnLista": "Good Girl Velvet Fatale",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["almendra", "café", "tuberosa", "cacao"],
+      "foto": "ch-good-girl-velvet-fatale",
+      "fragrantica": { "id": 50143, "nombre": "Good Girl Velvet Fatale (2018)", "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/Good-Girl-Velvet-Fatale-50143.html" }
+    },
+    {
+      "slug": "ch-212-vip-rose-smiley",
+      "marca": "Carolina Herrera",
+      "nombre": "212 VIP Rosé Smiley",
+      "comoEnLista": "212 VIP Rosé Smiley",
+      "genero": "Dama",
+      "familia": "Floral",
+      "notas": ["mandarina", "grosella negra", "rosa", "pachulí"],
+      "foto": "ch-212-vip-rose-smiley",
+      "fragrantica": { "id": 72732, "nombre": "212 VIP Rosé Smiley (2022)", "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-Smiley-72732.html" }
+    },
+    {
+      "slug": "ch-212-vip-rose-elixir",
+      "marca": "Carolina Herrera",
+      "nombre": "212 VIP Rosé Elixir",
+      "comoEnLista": "212 VIP Rosé Elixir",
+      "genero": "Dama",
+      "familia": "Chipre floral",
+      "notas": ["lichi", "flor de durazno", "rosa", "vainilla"],
+      "foto": "ch-212-vip-rose-elixir",
+      "fragrantica": { "id": 91736, "nombre": "212 VIP Rosé Elixir (2024)", "url": "https://www.fragrantica.com/perfume/Carolina-Herrera/212-VIP-Rose-Elixir-91736.html" }
+    },
+    {
+      "slug": "bvlgari-rose-goldea",
+      "marca": "Bvlgari",
+      "nombre": "Rose Goldea",
+      "comoEnLista": "Rose Goldea",
+      "genero": "Dama",
+      "familia": "Floral amaderado almizclado",
+      "notas": ["rosa", "granada", "peonía", "sándalo"],
+      "foto": "bvlgari-rose-goldea",
+      "fragrantica": { "id": 39834, "nombre": "Rose Goldea (2016)", "url": "https://www.fragrantica.com/perfume/Bvlgari/Rose-Goldea-39834.html" }
+    },
+    {
+      "slug": "bvlgari-goldea",
+      "marca": "Bvlgari",
+      "nombre": "Goldea",
+      "comoEnLista": "Goldea (dorada)",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["almizcle", "azahar", "jazmín", "ámbar"],
+      "foto": "bvlgari-goldea",
+      "fragrantica": { "id": 31538, "nombre": "Goldea (2015)", "url": "https://www.fragrantica.com/perfume/Bvlgari/Goldea-31538.html" }
+    },
+    {
+      "slug": "bvlgari-splendida-jasmin-noir",
+      "marca": "Bvlgari",
+      "nombre": "Splendida Jasmin Noir",
+      "comoEnLista": "Splendida Jasmin Noir",
+      "genero": "Dama",
+      "familia": "Floral",
+      "notas": ["gardenia", "jazmín", "sándalo", "haba tonka"],
+      "foto": "bvlgari-splendida-jasmin-noir",
+      "fragrantica": { "id": 43948, "nombre": "Splendida Jasmin Noir (2017)", "url": "https://www.fragrantica.com/perfume/Bvlgari/Splendida-Jasmin-Noir-43948.html" }
+    },
+    {
+      "slug": "jpg-scandal-absolu",
+      "marca": "Jean Paul Gaultier",
+      "nombre": "Scandal Absolu",
+      "comoEnLista": "Scandal Absolu dama",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["tuberosa", "higo negro", "sándalo"],
+      "foto": "jpg-scandal-absolu",
+      "fragrantica": { "id": 91052, "nombre": "Scandal Absolu (2024)", "url": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Absolu-91052.html" }
+    },
+    {
+      "slug": "jpg-scandal-pour-homme-absolu",
+      "marca": "Jean Paul Gaultier",
+      "nombre": "Scandal Pour Homme Absolu",
+      "comoEnLista": "Scandal Absolu caballero",
+      "genero": "Caballero",
+      "notas": ["ciruela mirabel", "castaña", "sándalo"],
+      "foto": "jpg-scandal-pour-homme-absolu",
+      "fragrantica": { "id": 91053, "nombre": "Scandal Pour Homme Absolu (2024)", "url": "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Scandal-Pour-Homme-Absolu-91053.html" }
+    },
+    {
+      "slug": "rabanne-million-gold-for-her",
+      "marca": "Paco Rabanne",
+      "nombre": "Million Gold For Her",
+      "comoEnLista": "Lady Million Gold (dama)",
+      "genero": "Dama",
+      "familia": "Floral",
+      "notas": ["flores blancas", "rosa", "almizcle"],
+      "foto": "rabanne-million-gold-for-her",
+      "fragrantica": { "id": 95640, "nombre": "Million Gold For Her (2024)", "url": "https://www.fragrantica.com/perfume/Rabanne/Million-Gold-For-Her-95640.html" },
+      "alternativas": [
+        { "id": 15952, "nombre": "Lady Million Absolutely Gold (2012)", "url": "https://www.fragrantica.com/perfume/Rabanne/Lady-Million-Absolutely-Gold-15952.html" }
+      ],
+      "confirmar": "\"Lady Million Gold\" hoy se vende como Million Gold For Her (2024), pareja del Million Gold de hombre."
+    },
+    {
+      "slug": "rabanne-million-gold",
+      "marca": "Paco Rabanne",
+      "nombre": "Million Gold",
+      "comoEnLista": "1 Million Gold (hombre)",
+      "genero": "Caballero",
+      "familia": "Amaderado aromático",
+      "notas": ["mandarina", "especias", "sándalo", "cedro"],
+      "foto": "rabanne-million-gold",
+      "fragrantica": { "id": 95641, "nombre": "Million Gold (2024)", "url": "https://www.fragrantica.com/perfume/Rabanne/Million-Gold-95641.html" },
+      "alternativas": [
+        { "id": 15951, "nombre": "1 Million Absolutely Gold (2012)", "url": "https://www.fragrantica.com/perfume/Rabanne/1-Million-Absolutely-Gold-15951.html" }
+      ]
+    },
+    {
+      "slug": "versace-eros-pour-femme-cofre",
+      "marca": "Versace",
+      "nombre": "Eros Pour Femme",
+      "comoEnLista": "Eros Pour Femme (cofre)",
+      "genero": "Dama",
+      "presentacion": "Cofre",
+      "familia": "Floral amaderado almizclado",
+      "notas": ["limón", "granada", "jazmín", "peonía"],
+      "foto": "versace-eros-pour-femme",
+      "fragrantica": { "id": 28958, "nombre": "Eros Pour Femme Eau de Parfum (2014)", "url": "https://www.fragrantica.com/perfume/Versace/Eros-Pour-Femme-28958.html" },
+      "alternativas": [
+        { "id": 39355, "nombre": "Eros Pour Femme Eau de Toilette (2016)", "url": "https://www.fragrantica.com/perfume/Versace/Eros-Pour-Femme-Eau-de-Toilette-39355.html" }
+      ],
+      "confirmar": "Usé la Eau de Parfum. Si alguna de las dos es Eau de Toilette, avísame para poner esa foto."
+    },
+    {
+      "slug": "versace-eros-pour-femme-caja",
+      "marca": "Versace",
+      "nombre": "Eros Pour Femme",
+      "comoEnLista": "Eros Pour Femme (caja sencilla)",
+      "genero": "Dama",
+      "presentacion": "Caja sencilla",
+      "familia": "Floral amaderado almizclado",
+      "notas": ["limón", "granada", "jazmín", "peonía"],
+      "foto": "versace-eros-pour-femme",
+      "fragrantica": { "id": 28958, "nombre": "Eros Pour Femme Eau de Parfum (2014)", "url": "https://www.fragrantica.com/perfume/Versace/Eros-Pour-Femme-28958.html" }
+    },
+    {
+      "slug": "tt-kirke",
+      "marca": "Tiziana Terenzi",
+      "nombre": "Kirkè",
+      "comoEnLista": "Kirké",
+      "genero": "Unisex",
+      "familia": "Chipre frutal",
+      "notas": ["maracuyá", "durazno", "frambuesa", "almizcle"],
+      "foto": "tt-kirke",
+      "fragrantica": { "id": 32172, "nombre": "Kirkè (2015)", "url": "https://www.fragrantica.com/perfume/Tiziana-Terenzi/Kirke-32172.html" }
+    },
+    {
+      "slug": "tt-cassiopea",
+      "marca": "Tiziana Terenzi",
+      "nombre": "Cassiopea",
+      "comoEnLista": "Cassiopea",
+      "genero": "Unisex",
+      "familia": "Chipre floral",
+      "notas": ["maracuyá", "grosella negra", "rosa de té", "sándalo"],
+      "foto": "tt-cassiopea",
+      "fragrantica": { "id": 30624, "nombre": "Cassiopea (2015)", "url": "https://www.fragrantica.com/perfume/Tiziana-Terenzi/Cassiopea-30624.html" }
+    },
+    {
+      "slug": "lattafa-eclaire",
+      "marca": "Lattafa",
+      "nombre": "Eclaire",
+      "comoEnLista": "Éclaire",
+      "genero": "Dama",
+      "familia": "Floral frutal gourmand",
+      "notas": ["caramelo", "leche", "miel", "vainilla"],
+      "foto": "lattafa-eclaire",
+      "fragrantica": { "id": 93628, "nombre": "Eclaire (2024)", "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Eclaire-93628.html" }
+    },
+    {
+      "slug": "lattafa-emeer",
+      "marca": "Lattafa",
+      "nombre": "Emeer",
+      "comoEnLista": "Emeer (caja sencilla)",
+      "genero": "Unisex",
+      "presentacion": "Caja sencilla",
+      "familia": "Amaderado aromático",
+      "notas": ["limón", "bergamota", "enebro", "té blanco"],
+      "foto": "lattafa-emeer",
+      "fragrantica": { "id": 89761, "nombre": "Emeer (2024)", "url": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Emeer-89761.html" }
+    },
+    {
+      "slug": "valentino-born-in-roma-the-gold-donna",
+      "marca": "Valentino",
+      "nombre": "Born in Roma The Gold Donna",
+      "comoEnLista": "Donna Gold",
+      "genero": "Dama",
+      "familia": "Floral frutal gourmand",
+      "notas": ["mandarina", "gardenia", "coco"],
+      "foto": "valentino-born-in-roma-the-gold-donna",
+      "fragrantica": { "id": 95704, "nombre": "Born in Roma The Gold Donna (2024)", "url": "https://www.fragrantica.com/perfume/Valentino/Born-in-Roma-the-Gold-Donna-95704.html" },
+      "confirmar": "\"Donna Gold\" corresponde a Valentino Donna Born in Roma The Gold (2024)."
+    },
+    {
+      "slug": "armaf-club-de-nuit-milestone",
+      "marca": "Armaf",
+      "nombre": "Club de Nuit Milestone",
+      "comoEnLista": "Club de Nuit Milestone",
+      "genero": "Unisex",
+      "familia": "Amaderado floral almizclado",
+      "notas": ["notas marinas", "frutos rojos", "bergamota", "violeta"],
+      "foto": "armaf-club-de-nuit-milestone",
+      "fragrantica": { "id": 64104, "nombre": "Club de Nuit Milestone (2019)", "url": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Milestone-64104.html" }
+    },
+    {
+      "slug": "lancome-la-vie-est-belle-lextrait",
+      "marca": "Lancôme",
+      "nombre": "La Vie Est Belle L'Extrait",
+      "comoEnLista": "La Vie Est Belle L'Extrait",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["iris", "rosa", "oud", "incienso"],
+      "foto": "lancome-la-vie-est-belle-lextrait",
+      "fragrantica": { "id": 84073, "nombre": "La Vie est Belle L'Extrait (2023)", "url": "https://www.fragrantica.com/perfume/Lancome/La-Vie-est-Belle-L-Extrait-84073.html" }
+    },
+    {
+      "slug": "gucci-guilty-pour-femme",
+      "marca": "Gucci",
+      "nombre": "Guilty Pour Femme",
+      "subtitulo": "Eau de Parfum",
+      "comoEnLista": "Guilty (dama)",
+      "genero": "Dama",
+      "familia": "Oriental floral",
+      "notas": ["pimienta rosa", "mandarina", "lila", "pachulí"],
+      "foto": "gucci-guilty-pour-femme",
+      "fragrantica": { "id": 52481, "nombre": "Gucci Guilty Eau de Parfum pour Femme (2019)", "url": "https://www.fragrantica.com/perfume/Gucci/Gucci-Guilty-Eau-de-Parfum-52481.html" },
+      "alternativas": [
+        { "id": 65553, "nombre": "Gucci Guilty Eau de Toilette (2021)", "url": "https://www.fragrantica.com/perfume/Gucci/Gucci-Guilty-Eau-de-Toilette-65553.html" }
+      ],
+      "confirmar": "Usé Guilty Eau de Parfum para dama (2019). Si el tuyo es Eau de Toilette, avísame."
+    }
+  ]
+}
