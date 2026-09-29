@@ -4,7 +4,7 @@
 
 - Archivo para enviar: `catalogo/Catalogo-Perfumes-Kevin-Rivera.pdf` (7 páginas)
 - Versión web (misma información): `catalogo/catalogo.html`
-- Última verificación: 2026-09-29 01:54 UTC con `python3 scripts/verificar.py`
+- Última verificación: 2026-09-29 02:11 UTC con `python3 scripts/verificar.py`
 
 ## Verificación
 

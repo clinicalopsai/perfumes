@@ -92,10 +92,7 @@ const paginasProductos = grupos
     const marcasPagina = [...new Set(grupo.map((p) => p.marca))];
     return `
   <section class="pagina productos">
-    <header class="encabezado">
-      <span>Catálogo de perfumes</span>
-      <span class="marcas-pagina">${marcasPagina.map(esc).join(' · ')}</span>
-    </header>
+    <header class="encabezado">${marcasPagina.map(esc).join(' · ')}</header>
     <div class="cuadricula">${grupo.map(tarjeta).join('')}
     </div>${pie(i + 2)}
   </section>`;
@@ -159,7 +156,6 @@ const html = `<!doctype html>
   .separador::before, .separador::after { content: ""; width: 26mm; height: 0.3mm; background: var(--oro); }
   .lista-marcas { font-size: 8.3pt; font-weight: 500; letter-spacing: .2em; line-height: 2.25; text-transform: uppercase; color: #e9e1d4; max-width: 150mm; }
   .lista-marcas i { font-style: normal; color: var(--oro); padding: 0 1.6mm; }
-  .conteo { margin-top: 7mm; font-family: "Cormorant Garamond", serif; font-style: italic; font-size: 14pt; color: var(--oro-claro); }
 
   .contacto { width: 100%; display: flex; align-items: center; justify-content: center; gap: 9mm; padding-top: 8mm; border-top: 0.25mm solid rgba(168,134,79,.6); }
   .contacto-texto { text-align: left; }
@@ -180,8 +176,7 @@ const html = `<!doctype html>
 
   /* Páginas de productos */
   .productos { display: flex; flex-direction: column; padding: 11mm 13mm 10mm; }
-  .encabezado { display: flex; justify-content: space-between; align-items: baseline; gap: 6mm; padding-bottom: 2.5mm; border-bottom: 0.3mm solid var(--oro); font-size: 7pt; font-weight: 600; letter-spacing: .22em; text-transform: uppercase; color: var(--oro); }
-  .marcas-pagina { color: var(--gris); letter-spacing: .12em; text-align: right; }
+  .encabezado { padding-bottom: 2.5mm; border-bottom: 0.3mm solid var(--oro); font-size: 7pt; font-weight: 600; letter-spacing: .12em; text-transform: uppercase; text-align: right; color: var(--gris); }
   .cuadricula { flex: 1; min-height: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); grid-template-rows: repeat(3, minmax(0, 1fr)); gap: 4.5mm; margin: 5mm 0 4.5mm; }
   .tarjeta { display: flex; flex-direction: column; min-height: 0; background: #fff; border: 0.25mm solid var(--borde); border-radius: 2.5mm; overflow: hidden; }
   .foto { position: relative; flex: none; height: 49mm; display: flex; align-items: center; justify-content: center; padding: 3mm 3mm 1.5mm; background: #fff; }
@@ -205,13 +200,11 @@ const html = `<!doctype html>
     <div class="portada-contenido">
       <p class="antetitulo">Catálogo</p>
       <h1 class="titulo">Perfumes</h1>
-      <p class="bajada">Fragancias para dama y caballero</p>
       <div class="centro">
       <div class="separador">◆</div>
       <div class="lista-marcas">${lineasDeMarcas(marcas)
         .map((linea) => `<p>${linea.map(esc).join('<i>·</i>')}</p>`)
         .join('')}</div>
-      <p class="conteo">${perfumes.length} fragancias · ${marcas.length} marcas</p>
       </div>${bloqueContacto('portada-contacto')}
       <p class="qr-nota">Escanea el código para escribirme por WhatsApp</p>
     </div>
